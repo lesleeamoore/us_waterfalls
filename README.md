@@ -22,8 +22,9 @@ Background information was gleaned from a 2013 article by Brian J. Hudson, PhD, 
 
 Background information on Taughannock Falls was found in [National Geographic Guide to State Parks of the United States](https://www.google.com/books/edition/National_Geographic_Guide_to_State_Parks/nF92MKfiuksC?hl=en&gbpv=1&pg=PA54&printsec=frontcover).
 
-QGIS layer exports are found [here](https://drive.google.com/drive/folders/1WU35Fi4Irr8mgBV2uEBi4nDBtuMlNyBZ?usp=sharing)
+QGIS layer exports are found [here](https://drive.google.com/drive/folders/1WU35Fi4Irr8mgBV2uEBi4nDBtuMlNyBZ?usp=sharing).
 
+[HTML Color Codes](https://htmlcolorcodes.com/color-picker/) was used to select colors for the webpage.
 
 Initial Data projection: NAD83/EPSG:4269
 
