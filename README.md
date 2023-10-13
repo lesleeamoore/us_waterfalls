@@ -46,7 +46,7 @@ The purpose of the project is to locate natural waterfalls in the continguous 48
 
 ### Mapmaking Process
 
-The first step in process of making this map was to download the [USGS waterfall database GeoJSON file](https://doi.org/doi:10.5066/P9QQTKA0).  From that list, I selected Taughannock Falls in New York as my focus.  
+The first step in the process of making this map was to download the [USGS waterfall database GeoJSON file](https://doi.org/doi:10.5066/P9QQTKA0).  From that list, I selected Taughannock Falls in New York as my focus.  
 
 Next, I downloaded elevation data from USGS centered on the coordinates for the waterfall. 
 
