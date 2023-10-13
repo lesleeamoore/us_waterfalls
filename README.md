@@ -14,19 +14,20 @@
 
 ### Data Source
 
-Data for waterfall locations in the conterminous U.S. were found on the [USGS website](https://www.sciencebase.gov/catalog/item/5e8d2b5982cee42d13466001).
+Data for waterfall locations in the conterminous U.S. were found on the [USGS website](https://www.sciencebase.gov/catalog/item/5e8d2b5982cee42d13466001).  The initial data was published in 2017, while the updated version was published in 2020.  The authors are D. J. Wieferich, W. M. Daniel, J. Procopio, and C. Morningstar.
 
 Elevation data came from the USGS NED 1/3 arc-second raster digital elevation model found [here](https://apps.nationalmap.gov/downloader/). Search coordinates used to locate Taughannock Falls in New York were -76.610502, 42.535608.
 
-Background information on waterfalls was gleaned from a 2013 article by Brian J. Hudson, PhD, [Waterfalls, science and aesthetics](https://doi.org/10.1080/08873631.2013.828482), that appeared in the Journal of Cultural Geography.
+Background information on waterfalls was gleaned from a 2013 article by Brian J. Hudson, PhD, [Waterfalls, science and aesthetics](https://doi.org/10.1080/08873631.2013.828482), that appeared in the Journal of Cultural Geography.  The [World Waterfall Database](https://www.worldwaterfalldatabase.com/) was also consulted.
 
-Background information on Taughannock Falls was found in [National Geographic Guide to State Parks of the United States](https://www.google.com/books/edition/National_Geographic_Guide_to_State_Parks/nF92MKfiuksC?hl=en&gbpv=1&pg=PA54&printsec=frontcover).
+Background information on Taughannock Falls was found in [National Geographic Guide to State Parks of the United States](https://www.google.com/books/edition/National_Geographic_Guide_to_State_Parks/nF92MKfiuksC?hl=en&gbpv=1&pg=PA54&printsec=frontcover), and on the [World Waterfall Database](https://www.worldwaterfalldatabase.com/waterfall/Taughannock-Falls-9303).
 
 QGIS layer exports are found [here](https://drive.google.com/drive/folders/1WU35Fi4Irr8mgBV2uEBi4nDBtuMlNyBZ?usp=sharing).
 
 [HTML Color Codes](https://htmlcolorcodes.com/color-picker/) was used to select colors for the webpage.
 
-Initial Data projection: NAD83/EPSG:4269.  Final Map projection:  NAD83/EPSG:4269
+Initial Data projection: NAD83/EPSG:4269.  Final Map projection:  NAD83/EPSG:4269.
+
 
 
 ### Project Background
@@ -36,9 +37,11 @@ Most people in the United States have heard of Niagara Falls, and most Kentuckia
 While the artists of the Hudson River School in the 1800s created beautiful landscape paintings, that included waterfalls, scientists didn't begin to pay serious attention to them until relatively recently. According to geographer Brian J. Hudson, waterfalls were long neglected in scientific research.  It has only been in the past 40 years or so that scientists have begun to study them intensely, especially in the context of human impact on waterfalls. He writes, "Today, these landforms attract the attention of scientists and scholars from a wide range of disciplines. As features of the landscape under threat from a variety of human activities, waterfalls are especially worthy of our serious attention." 
 
 
+
 ### Purpose
 
 The purpose of the project is to locate natural waterfalls in the continguous 48 states of the U.S. as a first step to understanding the particular role of each in culture and science as well as the current status of their health.  The focal point of this map is Taughannock Falls near Trumansburg, New York, in the Finger Lakes region of the state.  This plunge-type waterfall was selected because, at a height of 215 feet, it is taller than Niagara Falls and "is the tallest single-drop waterfall east of the Rocky Mountains", according to the National Geographic Guide to State Parks of the United States.
+
 
 
 ### Mapmaking Process
@@ -108,9 +111,11 @@ Mapmaking could then commence, first by using QGIS 3.32 Lima to create the map l
 **18. The last steps are to publish the map and get the necessary urls and tokens so the map will be accessible online. On the far right of the top toolbar, select "Publish" -> "Publish".  When the style is published, the urls and tokens can always be accessed by going to the Styles page and selecting the "Share your style" icon. A popup opens and contains the needed links.**![Alt text](<Mapbox Screenshots/Publishing and sharing the style.jpeg>)
 
 
+
 ### Map summary
 
 Mapmaking has moved into the digital age, and there are many tools and many ways available to create maps now.  Cartographers of yesteryear created hand-drawn maps that were also works of art.  Today, using free software or web-based programs such as QGIS and Mapbox, or paid programs such as ArcGIS, mapmakers create works that not only depict location but also tell a story or answer a question, whether those works are choropleth maps of wildfires or population densities or interactive maps that depict the impact of climate change on migratory bird paths.  The map that is part of this project was produced using QGIS, Mapbox, and the USGS.  It can serve as a economic tool, helping tourists locate thousands of waterfalls across the lower 48 states of the U.S. or by helping hydroelectric engineers locate possible new sources of renewable energy.  Or, perhaps, its best use may be to satisfy the curiosity of the armchair traveler who just likes to know where things are.
+
 
 
 ## Final Project Link
