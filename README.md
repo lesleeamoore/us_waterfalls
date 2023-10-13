@@ -20,7 +20,7 @@ Elevation data came from the USGS NED 1/3 arc-second raster digital elevation mo
 
 Background information on waterfalls was gleaned from a 2013 article by Brian J. Hudson, PhD, [Waterfalls, science and aesthetics](https://doi.org/10.1080/08873631.2013.828482), that appeared in the Journal of Cultural Geography.  The [World Waterfall Database](https://www.worldwaterfalldatabase.com/) was also consulted.
 
-Background information on Taughannock Falls was found in [National Geographic Guide to State Parks of the United States](https://www.google.com/books/edition/National_Geographic_Guide_to_State_Parks/nF92MKfiuksC?hl=en&gbpv=1&pg=PA54&printsec=frontcover), and on the [World Waterfall Database](https://www.worldwaterfalldatabase.com/waterfall/Taughannock-Falls-9303).
+Background information on Taughannock Falls was found in [National Geographic Guide to State Parks of the United States](https://www.google.com/books/edition/National_Geographic_Guide_to_State_Parks/nF92MKfiuksC?hl=en&gbpv=1&pg=PA54&printsec=frontcover), on the [World Waterfall Database](https://www.worldwaterfalldatabase.com/waterfall/Taughannock-Falls-9303) and in a 2020 article written by David Wren for the [Ithaca Journal] newspaper (https://www.ithacajournal.com/story/news/local/2020/12/05/ulysses-town-talk-mystery-behind-name-taughannock/3821711001/).
 
 QGIS layer exports are found [here](https://drive.google.com/drive/folders/1WU35Fi4Irr8mgBV2uEBi4nDBtuMlNyBZ?usp=sharing).
 
@@ -34,7 +34,7 @@ Initial Data projection: NAD83/EPSG:4269.  Final Map projection:  NAD83/EPSG:426
 
 Most people in the United States have heard of Niagara Falls, and most Kentuckians know Cumberland Falls.  I have long wondered how many other waterfalls there are in the U.S. and where they are located.  To my astonishment, USGS data from 2017 lists 11860 falls in the conterminous U.S. alone.  The World Waterfall Database tells us that if we were to include Alaska and Hawaii, the number jumps to more than 17000.
 
-While the artists of the Hudson River School in the 1800s created beautiful landscape paintings, that included waterfalls, scientists didn't begin to pay serious attention to them until relatively recently. According to geographer Brian J. Hudson, waterfalls were long neglected in scientific research.  It has only been in the past 40 years or so that scientists have begun to study them intensely, especially in the context of human impact on waterfalls. He writes, "Today, these landforms attract the attention of scientists and scholars from a wide range of disciplines. As features of the landscape under threat from a variety of human activities, waterfalls are especially worthy of our serious attention." 
+While the artists of the Hudson River School in the 1800s created beautiful landscape paintings that included waterfalls, scientists didn't begin to pay serious attention to them until relatively recently. According to geographer Brian J. Hudson, waterfalls were long neglected in scientific research.  It has only been in the past 40 years or so that scientists have begun to study them intensely, especially in the context of human impact on waterfalls. He writes, "Today, these landforms attract the attention of scientists and scholars from a wide range of disciplines. As features of the landscape under threat from a variety of human activities, waterfalls are especially worthy of our serious attention." 
 
 
 
